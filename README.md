@@ -1,2 +1,2 @@
 # FSD_Project
-university project repo
+FSD University Project repo
